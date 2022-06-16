@@ -1,0 +1,10 @@
+.idea/.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/VKR.iml
+.idea/inspectionProfiles/profiles_settings.xml
+docs/Documentation.doc
+docs/Presentation.ppt
+.vscode/launch.json
+__pycache__/my_app.cpython-38.pyc
